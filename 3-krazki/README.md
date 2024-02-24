@@ -3,11 +3,32 @@
 Źródło: <a href="https://szkopul.edu.pl/problemset/problem/fYXVXOreVxlXTRoHZJXyXF2l/site/?key=statement">Szkopuł</a>
 
 ## Wyniki
+| Zadanie              | Data zgłoszenia       | Status                     | Wynik |
+|----------------------|-----------------------|----------------------------|-------|
+| Zadanie Krążki (kra3_main) | 2024-02-24 10:35:04 | Wstępne sprawdzanie: OK    | 100   |
+
+| Test | Wynik | Czas         | Wynik   |
+|------|-------|--------------|---------|
+| 1a   | OK    | 0.00s / 0.10s| 9 / 9   |
+| 1b   | OK    | 0.00s / 0.10s|         |
+| 2    | OK    | 0.00s / 0.10s| 9 / 9   |
+| 3a   | OK    | 0.00s / 0.10s| 9 / 9   |
+| 3b   | OK    | 0.00s / 0.10s|         |
+| 4    | OK    | 0.00s / 0.10s| 9 / 9   |
+| 5    | OK    | 0.03s / 0.10s| 9 / 9   |
+| 6    | OK    | 0.06s / 0.20s| 9 / 9   |
+| 7    | OK    | 0.10s / 0.30s| 9 / 9   |
+| 8    | OK    | 0.13s / 0.40s| 9 / 9   |
+| 9    | OK    | 0.18s / 0.50s| 9 / 9   |
+| 10   | OK    | 0.22s / 1.00s| 9 / 9   |
+| 11   | OK    | 0.24s / 1.00s| 10 / 10 |
 
 
 # Limit pamięci: 32 MB
 
 Mały Jaś dostał od rodziców na urodziny nową zabawkę, w której skład wchodzą rurka i krążki. Rurka ma nietypowy kształt - mianowicie jest to połączenie pewnej liczby walców (o takiej samej grubości) z wyciętymi w środku (współosiowo) okrągłymi otworami różnej średnicy. Rurka jest zamknięta od dołu, a otwarta od góry. Na poniższym rysunku przedstawiono przykładową taką rurkę, złożoną z walców, w których wycięto otwory o średnicach kolejno: 5 cm, 6 cm, 4 cm, 3 cm, 6 cm, 2 cm i 3 cm.
+
+
 <img src="https://piotr.detyna.pl/oi/krazki/krazki1.png">
 
 
