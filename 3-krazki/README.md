@@ -8,14 +8,14 @@
 # Limit pamięci: 32 MB
 
 Mały Jaś dostał od rodziców na urodziny nową zabawkę, w której skład wchodzą rurka i krążki. Rurka ma nietypowy kształt - mianowicie jest to połączenie pewnej liczby walców (o takiej samej grubości) z wyciętymi w środku (współosiowo) okrągłymi otworami różnej średnicy. Rurka jest zamknięta od dołu, a otwarta od góry. Na poniższym rysunku przedstawiono przykładową taką rurkę, złożoną z walców, w których wycięto otwory o średnicach kolejno: 5 cm, 6 cm, 4 cm, 3 cm, 6 cm, 2 cm i 3 cm.
-<img src="https://szkopul.edu.pl/problemset/problem/fYXVXOreVxlXTRoHZJXyXF2l/site/images/OI13/kra1.png" style="background-color: white;">
+<img src="https://piotr.detyna.pl/oi/krazki/krazki1.png">
 
 
 Krążki w zabawce Jasia są walcami o różnych średnicach i takiej samej grubości co walce tworzące rurkę.
 
 Jaś wymyślił sobie następującą zabawę. Mając do dyspozycji pewien zestaw krążków zastanawia się, na jakiej wysokości zatrzymałby się ostatni z nich, gdyby wrzucał je kolejno do rurki centralnie (czyli dokładnie w jej środek). Dla przykładu, gdyby wrzucić do powyższej rurki krążki o średnicach kolejno 3 cm, 2 cm i 5 cm, to otrzymalibyśmy następującą sytuację:
 
-<img src="https://szkopul.edu.pl/problemset/problem/fYXVXOreVxlXTRoHZJXyXF2l/site/images/OI13/kra2.png" style="background-color: white;">
+<img src="https://piotr.detyna.pl/oi/krazki/krazki2.png">
 
 Jak widać, każdy kolejny krążek po wrzuceniu spada dopóki się nie zaklinuje (czyli nie oprze się o walec, w którym wycięty jest otwór o mniejszej średnicy niż średnica krążka), albo nie natrafi na przeszkodę w postaci innego krążka lub dna rurki.
 
